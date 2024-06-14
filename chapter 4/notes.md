@@ -1,11 +1,3 @@
-<!--
- * @Author: Phyleoly Phyleoly@gmail.com
- * @Date: 2024-06-14 16:17:41
- * @LastEditTime: 2024-06-14 18:06:24
- * @Description: 
- * 
- * Copyright (c) 2024 by Phyeloly, All Rights Reserved. 
--->
 ### 4.2 socket 函数
 ~~~C
 #include <sys/socket.h>
